@@ -1,4 +1,4 @@
-# GrpcTest
+# TestGrpc - with .Net
 
 <p>A simple project where a client can run <b>CRUD</b> functions on a todo service using <b>gRPC</b> protocol.</p>
 Built with: 
@@ -35,7 +35,7 @@ Built with:
 
 ## Comments
 
-In case you have to share the .proto file to other than services built with .Net, the <code><i>protobuf-net.Grpc.AspNetCore</i></code> package can't generate the .proto file for this project using generics and inheritance structure.
+In case you have to share the .proto file to other than services built with .Net, the <code><i>protobuf-net.Grpc.AspNetCore</i></code> package can't generate the .proto file for this project that use generics and inheritance structure.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
